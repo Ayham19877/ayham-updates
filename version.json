@@ -1,6 +1,6 @@
 {
-  "versionName": "2.4",
-  "versionCode": 104,
-  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/ayham-updates/main/AYHAM_v2.4.apk",
-  "notes": "AYHAM 2.4 - max speed 3ms, normal 15ms"
+  "versionName": "2.5",
+  "versionCode": 105,
+  "apkUrl": "https://raw.githubusercontent.com/Ayham19877/ayham-updates/main/AYHAM_v2.5.apk",
+  "notes": "AYHAM 2.5 - adjustable max scan time: 1/2/3/5/10/15ms (default 3ms), normal 15ms"
 }
